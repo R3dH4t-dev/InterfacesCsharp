@@ -1,0 +1,13 @@
+F:\Csharp\Udemy\Aula4Interfaces\bin\Debug\netcoreapp3.1\Aula4Interfaces.exe
+F:\Csharp\Udemy\Aula4Interfaces\bin\Debug\netcoreapp3.1\Aula4Interfaces.deps.json
+F:\Csharp\Udemy\Aula4Interfaces\bin\Debug\netcoreapp3.1\Aula4Interfaces.runtimeconfig.json
+F:\Csharp\Udemy\Aula4Interfaces\bin\Debug\netcoreapp3.1\Aula4Interfaces.runtimeconfig.dev.json
+F:\Csharp\Udemy\Aula4Interfaces\bin\Debug\netcoreapp3.1\Aula4Interfaces.dll
+F:\Csharp\Udemy\Aula4Interfaces\bin\Debug\netcoreapp3.1\Aula4Interfaces.pdb
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.csprojAssemblyReference.cache
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.AssemblyInfoInputs.cache
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.AssemblyInfo.cs
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.csproj.CoreCompileInputs.cache
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.dll
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.pdb
+F:\Csharp\Udemy\Aula4Interfaces\obj\Debug\netcoreapp3.1\Aula4Interfaces.genruntimeconfig.cache
